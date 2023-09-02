@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{09a4ba8e-f565-073b-78b3-e21b526aebbb}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConeMeshAssembly", "ConeMeshAssembly.csproj", "{b31a60fe-72f3-1215-3740-ca28612aae01}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConeMeshEditorAssembly", "ConeMeshEditorAssembly.csproj", "{4d9c6ca4-5705-5a31-ac92-a5ed312ce0fd}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor", "Assembly-CSharp-Editor.csproj", "{7ae69cdf-201c-3369-5364-f00a5a79458d}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09a4ba8e-f565-073b-78b3-e21b526aebbb}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09a4ba8e-f565-073b-78b3-e21b526aebbb}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{b31a60fe-72f3-1215-3740-ca28612aae01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{b31a60fe-72f3-1215-3740-ca28612aae01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4d9c6ca4-5705-5a31-ac92-a5ed312ce0fd}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4d9c6ca4-5705-5a31-ac92-a5ed312ce0fd}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7ae69cdf-201c-3369-5364-f00a5a79458d}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7ae69cdf-201c-3369-5364-f00a5a79458d}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
